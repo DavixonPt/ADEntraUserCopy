@@ -125,7 +125,7 @@
             <TabItem BorderBrush="Transparent" Background="Transparent">
                 <TabItem.Header>
                     <StackPanel Orientation="Horizontal">
-                        <Image Source="C:\CustomPowerShell\ADEntraUserCopy\ADEntraUserCopy\Media\LocalAD2.png" Width="45" Margin="5,5,5,5"/>
+                        <Image Source="C:\CustomPowerShell\ADEntraUserCopy\ADEntraUserCopy\Media\LocalAD.png" Width="45" Margin="5,5,5,5"/>
                     </StackPanel>
                 </TabItem.Header>
                 <Grid Background="LightGray"/>
